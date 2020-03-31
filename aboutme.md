@@ -15,5 +15,5 @@ tôi là long. một người trẻ bơi lội giữa nhiều định hướng
 3. Marketing và (một chút) tản mạn ngành nghề
 4. Cuối cùng, không thể thiếu cuộc trò chuyện của Ngày Bean và Ngày Beer
 
-tôi mong sẽ viết đều đều trên đây. Cùng mong chờ nhé. À, Nếu bạn tìm kiếm một chút nhạc cho ngày cách ly u ám, có thể ghé qua [playlist của tôi trên Youtube]https://www.youtube.com/playlist?list=PLpnDaptUtCkpgx9rSlMaw2Q8BBHLV-Fld
+tôi mong sẽ viết đều đều trên đây. Cùng mong chờ nhé. À, Nếu bạn tìm kiếm một chút nhạc cho ngày cách ly u ám, có thể ghé qua [playlist của tôi trên Youtube](https://www.youtube.com/playlist?list=PLpnDaptUtCkpgx9rSlMaw2Q8BBHLV-Fld)
 ### Nice day!
