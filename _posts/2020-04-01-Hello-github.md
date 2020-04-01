@@ -11,7 +11,7 @@ Tôi bắt đầu có ý định viết từ khá lâu rồi, nhưng, không bi�
 Vì tôi sắp phải học một tấn kiến thức mới :) thật đấy. Tôi mới được luân chuyển, để phù hợp hơn cho vị trí mới, tôi cần học thêm về database, marketing, các con số kinh doanh… Chưa kể công việc cũ đến giai đoạn setup hệ thống, thế nên lại phải đọc một tấn sách khác để xây dựng quy trình. Ôi chà chà, sếp mới của tôi đã ném cho một tá sách và yêu cầu đọc hết trong tháng tư rồi kia kìa!
 
 ![](https://media.giphy.com/media/Axqr1hNEmGJiw/giphy.gif){: .center-block :}  
-<div align="center">Bùmmmm</div>
+<div align="center">_Bùmmmm_</div>
 
 ### Nhưng mà cái việc trên thì liên quan gì tới quyết định viết của tôi?
 
@@ -20,7 +20,7 @@ Nó là chất xúc tác. Ý tưởng viết một cái gì đó đã nảy ra t
 Tôi là người học kiểu classic. Tức là mỗi khi học, cần bút giấy để ghi chép xong đọc lại các thứ ấy. Nên, đằng nào cũng phải viết, sao không chơi lớn, mở một con blog, nhỉ??!!
 
 ![](https://i.kym-cdn.com/photos/images/original/001/237/074/8d4.jpg){: .center-block :}  
-<div align="center">Tôi ngay lúc này...</div>
+<div align="center">_Tôi ngay lúc này..._</div>
 
 ### Nhẽ ra đây là phần quan trọng, nhưng vì không biết viết gì, nên tôi cho nó xuống cuối..
 
